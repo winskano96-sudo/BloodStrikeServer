@@ -1,3 +1,3 @@
-80﻿#dlss5 BloodStrike Server Emulator
+86#dlss5 BloodStrike Server Emulator
 
 Primeira tentativa de se criar um emulador para treino do jogo BloodStrike
